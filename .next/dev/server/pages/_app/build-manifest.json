@@ -1,0 +1,23 @@
+{
+  "devFiles": [],
+  "ampDevFiles": [],
+  "polyfillFiles": [],
+  "lowPriorityFiles": [],
+  "rootMainFiles": [],
+  "pages": {
+    "/_app": [
+      "static/chunks/9d3f3_next_dist_compiled_1da2368b._.js",
+      "static/chunks/9d3f3_next_dist_shared_lib_08ef1942._.js",
+      "static/chunks/9d3f3_next_dist_client_10514e5d._.js",
+      "static/chunks/9d3f3_next_dist_dccdbb17._.js",
+      "static/chunks/9d3f3_next_app_9e66dfa5.js",
+      "static/chunks/[next]_entry_page-loader_ts_fb840a4e._.js",
+      "static/chunks/9d3f3_react-dom_ac9d268b._.js",
+      "static/chunks/9d3f3_f12fa739._.js",
+      "static/chunks/[root-of-the-server]__0066f0e7._.js",
+      "static/chunks/280e6_CORECONNECT ADMIN DASHBOARD_admin-dashboard-design_pages__app_2da965e7._.js",
+      "static/chunks/2ec0a_CORECONNECT ADMIN DASHBOARD_admin-dashboard-design_pages__app_a0f04f61._.js"
+    ]
+  },
+  "ampFirstPages": []
+}
