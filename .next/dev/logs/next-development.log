@@ -1,8 +1,102 @@
-[00:00:05.203] Server  LOG      ✓ Ready in 3.8s
-[00:00:31.151] Server  LOG      ○ Compiling / ...
-[00:01:04.684] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:01:09.761] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[00:01:09.761] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
-[00:01:09.761] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764331061074}
-[00:02:21.299] Browser WARN    Warning: Missing `Description` or `aria-describedby={undefined}` for {DialogContent}.
-[00:02:21.299] Browser WARN    Warning: Missing `Description` or `aria-describedby={undefined}` for {DialogContent}.
+[00:00:03.482] Server  LOG      ✓ Ready in 2.5s
+[00:00:11.383] Server  LOG      ○ Compiling / ...
+[00:00:27.167] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:30.735] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:00:30.736] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:00:30.736] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764609645731}
+[00:05:48.985] Server  LOG      ✓ Compiled in 404ms
+[00:06:17.857] Server  LOG      ✓ Compiled in 224ms
+[00:06:20.402] Server  LOG      ✓ Compiled in 429ms
+[00:06:26.165] Server  LOG      ✓ Compiled in 697ms
+[00:06:32.351] Server  LOG      ✓ Compiled in 213ms
+[00:09:15.521] Server  LOG      ✓ Compiled in 299ms
+[00:09:17.961] Browser ERROR   uncaughtError: ReferenceError: Button is not defined
+[00:10:06.309] Server  LOG      ✓ Compiled in 426ms
+[00:10:06.359] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:10:07.790] Server  ERROR   C:\Users\rocky\Desktop\WEB DEV BIG PROJECTS\CORECONNECT ADMIN DASHBOARD\coreconnect_admin\.next\dev\server\chunks\ssr\3d860_WEB DEV BIG PROJECTS_CORECONNECT ADMIN DASHBOARD_coreconnect_admin_8a447e31._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:10:07.804] Server  ERROR    ⨯ ReferenceError: Button is not defined
+[00:10:07.920] Browser ERROR   uncaughtError: ReferenceError: Button is not defined
+[00:10:09.518] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:10:10.731] Browser ERROR   uncaughtError: ReferenceError: Button is not defined
+[00:10:19.828] Server  LOG      ✓ Compiled in 611ms
+[00:10:19.883] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:10:20.926] Server  ERROR   C:\Users\rocky\Desktop\WEB DEV BIG PROJECTS\CORECONNECT ADMIN DASHBOARD\coreconnect_admin\.next\dev\server\chunks\ssr\3d860_WEB DEV BIG PROJECTS_CORECONNECT ADMIN DASHBOARD_coreconnect_admin_8a447e31._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:10:20.932] Server  ERROR    ⨯ ReferenceError: Button is not defined
+[00:10:23.046] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:10:24.739] Browser ERROR   uncaughtError: ReferenceError: Button is not defined
+[00:10:26.028] Server  LOG      ✓ Compiled in 409ms
+[00:10:26.039] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:10:27.261] Server  ERROR   C:\Users\rocky\Desktop\WEB DEV BIG PROJECTS\CORECONNECT ADMIN DASHBOARD\coreconnect_admin\.next\dev\server\chunks\ssr\3d860_WEB DEV BIG PROJECTS_CORECONNECT ADMIN DASHBOARD_coreconnect_admin_8a447e31._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:10:27.273] Server  ERROR    ⨯ ReferenceError: getDataForMethod is not defined
+[00:10:28.472] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:10:30.074] Server  LOG      ✓ Compiled in 1025ms
+[00:10:32.730] Browser ERROR   unhandledRejection: Error: No link element found for chunk /_next/static/chunks/%5Broot-of-the-server%5D__84adc2d6._.css
+[00:10:32.730] Browser ERROR   uncaughtError: ReferenceError: getDataForMethod is not defined
+[00:10:40.960] Server  LOG      ✓ Compiled in 341ms
+[00:10:41.128] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:10:41.130] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:10:44.446] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:10:52.225] Browser WARN    ImmutableStateInvariantMiddleware took 75ms, which is more than the warning threshold of 32ms. 
+If your state or actions are very large, you may want to disable the middleware as it might cause too much of a slowdown in development mode. See https://redux-toolkit.js.org/api/getDefaultMiddleware for instructions.
+It is disabled in production builds, so you don't need to worry about that.
+[00:10:52.225] Browser WARN    ImmutableStateInvariantMiddleware took 62ms, which is more than the warning threshold of 32ms. 
+If your state or actions are very large, you may want to disable the middleware as it might cause too much of a slowdown in development mode. See https://redux-toolkit.js.org/api/getDefaultMiddleware for instructions.
+It is disabled in production builds, so you don't need to worry about that.
+[00:10:52.735] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:10:52.735] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:10:52.735] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764610267668}
+[00:13:05.624] Server  LOG      ✓ Compiled in 656ms
+[00:13:10.389] Server  LOG      ✓ Compiled in 220ms
+[00:13:14.257] Server  LOG      ✓ Compiled in 429ms
+[00:13:39.047] Browser WARN    Warning: Missing `Description` or `aria-describedby={undefined}` for {DialogContent}.
+[00:13:39.047] Browser WARN    Warning: Missing `Description` or `aria-describedby={undefined}` for {DialogContent}.
+[00:13:50.497] Browser WARN    Warning: Missing `Description` or `aria-describedby={undefined}` for {DialogContent}.
+[00:13:50.497] Browser WARN    Warning: Missing `Description` or `aria-describedby={undefined}` for {DialogContent}.
+[00:17:11.766] Server  LOG      ✓ Compiled in 690ms
+[00:17:13.150] Browser ERROR   uncaughtError: ReferenceError: UserCheck is not defined
+[00:17:13.150] Browser WARN    ImmutableStateInvariantMiddleware took 45ms, which is more than the warning threshold of 32ms. 
+If your state or actions are very large, you may want to disable the middleware as it might cause too much of a slowdown in development mode. See https://redux-toolkit.js.org/api/getDefaultMiddleware for instructions.
+It is disabled in production builds, so you don't need to worry about that.
+[00:17:51.402] Server  LOG      ✓ Compiled in 932ms
+[00:17:51.431] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:17:54.886] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764610687126}
+[00:17:59.681] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:18:04.733] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:18:04.733] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:18:04.734] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764610699537}
+[00:18:34.373] Server  LOG      ✓ Compiled in 442ms
+[00:19:10.826] Browser WARN    Warning: Missing `Description` or `aria-describedby={undefined}` for {DialogContent}.
+[00:19:10.826] Browser WARN    Warning: Missing `Description` or `aria-describedby={undefined}` for {DialogContent}.
+[00:19:14.900] Browser WARN    Warning: Missing `Description` or `aria-describedby={undefined}` for {DialogContent}.
+[00:19:14.900] Browser WARN    Warning: Missing `Description` or `aria-describedby={undefined}` for {DialogContent}.
+[00:19:16.913] Browser WARN    Warning: Missing `Description` or `aria-describedby={undefined}` for {DialogContent}.
+[00:19:16.913] Browser WARN    Warning: Missing `Description` or `aria-describedby={undefined}` for {DialogContent}.
+[00:19:20.371] Browser WARN    Warning: Missing `Description` or `aria-describedby={undefined}` for {DialogContent}.
+[00:19:20.372] Browser WARN    Warning: Missing `Description` or `aria-describedby={undefined}` for {DialogContent}.
+[00:19:25.947] Browser WARN    Warning: Missing `Description` or `aria-describedby={undefined}` for {DialogContent}.
+[00:19:25.947] Browser WARN    Warning: Missing `Description` or `aria-describedby={undefined}` for {DialogContent}.
+[00:19:28.436] Browser WARN    Warning: Missing `Description` or `aria-describedby={undefined}` for {DialogContent}.
+[00:19:28.436] Browser WARN    Warning: Missing `Description` or `aria-describedby={undefined}` for {DialogContent}.
+[00:21:16.476] Server  LOG      ✓ Compiled in 356ms
+[00:21:19.228] Server  LOG      ✓ Compiled in 467ms
+[00:22:05.938] Server  LOG      ✓ Compiled in 358ms
+[00:23:15.326] Server  LOG      ✓ Compiled in 722ms
+[00:23:24.982] Server  LOG      ✓ Compiled in 868ms
+[00:23:30.699] Server  LOG      ✓ Compiled in 187ms
+[00:23:43.953] Server  LOG      ✓ Compiled in 256ms
+[00:23:48.473] Server  LOG      ✓ Compiled in 265ms
+[00:23:52.259] Server  LOG      ✓ Compiled in 181ms
+[00:23:56.186] Server  LOG      ✓ Compiled in 428ms
+[00:23:59.006] Server  LOG      ✓ Compiled in 189ms
+[00:24:03.717] Server  LOG      ✓ Compiled in 709ms
+[00:24:08.497] Server  LOG      ✓ Compiled in 561ms
+[00:24:26.464] Browser WARN    Warning: Missing `Description` or `aria-describedby={undefined}` for {DialogContent}.
+[00:24:26.464] Browser WARN    Warning: Missing `Description` or `aria-describedby={undefined}` for {DialogContent}.
+[00:24:29.056] Browser WARN    Warning: Missing `Description` or `aria-describedby={undefined}` for {DialogContent}.
+[00:24:29.056] Browser WARN    Warning: Missing `Description` or `aria-describedby={undefined}` for {DialogContent}.
+[00:24:34.575] Browser WARN    Warning: Missing `Description` or `aria-describedby={undefined}` for {DialogContent}.
+[00:24:34.575] Browser WARN    Warning: Missing `Description` or `aria-describedby={undefined}` for {DialogContent}.
+[00:24:39.333] Browser WARN    Warning: Missing `Description` or `aria-describedby={undefined}` for {DialogContent}.
+[00:24:39.333] Browser WARN    Warning: Missing `Description` or `aria-describedby={undefined}` for {DialogContent}.
+[00:24:42.125] Browser WARN    Warning: Missing `Description` or `aria-describedby={undefined}` for {DialogContent}.
+[00:24:42.125] Browser WARN    Warning: Missing `Description` or `aria-describedby={undefined}` for {DialogContent}.
