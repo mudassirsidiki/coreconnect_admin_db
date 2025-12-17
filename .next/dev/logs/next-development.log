@@ -1,40 +1,21 @@
-[00:00:04.244] Server  LOG      ✓ Ready in 2.9s
-[00:00:17.144] Server  LOG      ○ Compiling / ...
-[00:00:47.918] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:00:50.475] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[00:00:50.475] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
-[00:00:50.475] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1765825287437}
-[00:09:39.501] Server  LOG      ✓ Compiled in 611ms
-[00:09:47.296] Server  LOG      ✓ Compiled in 529ms
-[00:09:50.501] Browser ERROR   uncaughtError: ReferenceError: topPerformersData is not defined
-[00:10:06.917] Server  LOG      ✓ Compiled in 853ms
-[00:10:09.504] Browser ERROR   ./Desktop/WEB DEV BIG PROJECTS/CORECONNECT ADMIN DASHBOARD/coreconnect_admin/components/activity-charts.tsx:290:6
-Parsing ecmascript source code failed
-  288 |     </Card>
-  289 |   )
-> 290 |     </div>
-      |      ^^^^^
-  291 |   )
-  292 | }
-  293 |
-
-Unterminated regexp literal
-
-Import traces:
-  Client Component Browser:
-    ./Desktop/WEB DEV BIG PROJECTS/CORECONNECT ADMIN DASHBOARD/coreconnect_admin/components/activity-charts.tsx [Client Component Browser]
-    ./Desktop/WEB DEV BIG PROJECTS/CORECONNECT ADMIN DASHBOARD/coreconnect_admin/app/page.tsx [Client Component Browser]
-    ./Desktop/WEB DEV BIG PROJECTS/CORECONNECT ADMIN DASHBOARD/coreconnect_admin/app/page.tsx [Server Component]
-
-  Client Component SSR:
-    ./Desktop/WEB DEV BIG PROJECTS/CORECONNECT ADMIN DASHBOARD/coreconnect_admin/components/activity-charts.tsx [Client Component SSR]
-    ./Desktop/WEB DEV BIG PROJECTS/CORECONNECT ADMIN DASHBOARD/coreconnect_admin/app/page.tsx [Client Component SSR]
-    ./Desktop/WEB DEV BIG PROJECTS/CORECONNECT ADMIN DASHBOARD/coreconnect_admin/app/page.tsx [Server Component]
-[00:10:20.081] Server  LOG      ✓ Compiled in 1675ms
-[00:10:27.218] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:10:30.183] Browser WARN    ImmutableStateInvariantMiddleware took 483ms, which is more than the warning threshold of 32ms. 
+[00:00:05.800] Server  LOG      ✓ Ready in 4.2s
+[00:00:12.079] Server  LOG      ○ Compiling / ...
+[00:00:29.739] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:34.852] Browser WARN    ImmutableStateInvariantMiddleware took 36ms, which is more than the warning threshold of 32ms. 
 If your state or actions are very large, you may want to disable the middleware as it might cause too much of a slowdown in development mode. See https://redux-toolkit.js.org/api/getDefaultMiddleware for instructions.
 It is disabled in production builds, so you don't need to worry about that.
-[00:10:30.503] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[00:10:30.503] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
-[00:10:30.503] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1765825867301}
+[00:00:35.344] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:00:35.344] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:00:35.344] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1765980643854}
+[00:07:06.130] Server  LOG      ✓ Compiled in 1342ms
+[00:07:10.168] Server  LOG      ✓ Compiled in 646ms
+[00:07:13.183] Server  LOG      ✓ Compiled in 357ms
+[00:07:16.391] Server  LOG      ✓ Compiled in 446ms
+[00:07:18.212] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:07:18.213] Browser ERROR   uncaughtError: ReferenceError: PieChart is not defined
+[00:07:20.223] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:07:20.509] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:07:23.810] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:07:28.333] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:07:28.333] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:07:28.333] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1765981057115}
