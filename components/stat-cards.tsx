@@ -1,7 +1,7 @@
 'use client'
 
 import { Card } from '@/components/ui/card'
-import { Users, Shield, Building2, Contact, FolderKanban, Cpu } from 'lucide-react'
+import { Users, Shield, Building2, Contact, FolderKanban } from 'lucide-react'
 
 const mockData = {
   totalUsers: [
@@ -136,8 +136,7 @@ export function StatCards({ onCardClick }: { onCardClick: (type: string, data: a
 
       {/* Companies Card */}
       <Card
-        className="bg-gradient-to-br from-green-500 to-green-600 text-white p-4 cursor-pointer hover:shadow-lg transition-all hover:scale-105 border-0 flex-1 min-w-[150px]"
-        onClick={() => onCardClick('Companies', mockData.companies)}
+        className="bg-gradient-to-br from-green-500 to-green-600 text-white p-4 border-0 flex-1 min-w-[150px]"
       >
         <div className="flex items-center justify-between mb-2">
           <div>
@@ -153,8 +152,7 @@ export function StatCards({ onCardClick }: { onCardClick: (type: string, data: a
 
       {/* Contacts Card */}
       <Card
-        className="bg-gradient-to-br from-orange-500 to-orange-600 text-white p-4 cursor-pointer hover:shadow-lg transition-all hover:scale-105 border-0 flex-1 min-w-[150px]"
-        onClick={() => onCardClick('Contacts', mockData.contacts)}
+        className="bg-gradient-to-br from-orange-500 to-orange-600 text-white p-4 border-0 flex-1 min-w-[150px]"
       >
         <div className="flex items-center justify-between mb-2">
           <div>
@@ -170,8 +168,7 @@ export function StatCards({ onCardClick }: { onCardClick: (type: string, data: a
 
       {/* Projects Card */}
       <Card
-        className="bg-gradient-to-br from-pink-500 to-pink-600 text-white p-4 cursor-pointer hover:shadow-lg transition-all hover:scale-105 border-0 flex-1 min-w-[150px]"
-        onClick={() => onCardClick('Projects', mockData.projects)}
+        className="bg-gradient-to-br from-pink-500 to-pink-600 text-white p-4 border-0 flex-1 min-w-[150px]"
       >
         <div className="flex items-center justify-between mb-2">
           <div>
@@ -183,23 +180,6 @@ export function StatCards({ onCardClick }: { onCardClick: (type: string, data: a
           </div>
         </div>
         <p className="text-pink-100 text-xs">Total projects</p>
-      </Card>
-
-      {/* Technologies Card */}
-      <Card
-        className="bg-gradient-to-br from-indigo-500 to-indigo-600 text-white p-4 cursor-pointer hover:shadow-lg transition-all hover:scale-105 border-0 flex-1 min-w-[150px]"
-        onClick={() => onCardClick('Technologies', mockData.technologies)}
-      >
-        <div className="flex items-center justify-between mb-2">
-          <div>
-            <p className="text-indigo-100 text-xs mb-1">Technologies</p>
-            <h3 className="text-2xl font-bold">{mockData.technologies.length}</h3>
-          </div>
-          <div className="bg-white/20 p-2 rounded-lg">
-            <Cpu className="w-5 h-5" />
-          </div>
-        </div>
-        <p className="text-indigo-100 text-xs">Total technologies</p>
       </Card>
     </div>
   )
